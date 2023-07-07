@@ -2,6 +2,7 @@
 
 ## 🍀 소개
 `Dasan`과 `EtialMoon`이 만든 만국박람회입니다. `파리 만국박람회 1900`에 대한 소개와 한국 출품작들을 볼 수 있습니다.
+<br>🎯 핵심 경험 : `JSONDecoder`, `UITableView`
 
 <br>
 
